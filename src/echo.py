@@ -1,3 +1,3 @@
 import sys
 
-print(' '.join(sys.argv))
+print(' '.join(sys.argv[1:]))
